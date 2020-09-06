@@ -1,0 +1,17 @@
+button {
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
